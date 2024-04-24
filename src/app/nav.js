@@ -2,7 +2,7 @@
 
 export default function Navigation() {
     return (
-      <nav>
+      <nav  className="text-3xl font-bold " >
         <ul>
           <li>
               <a>Home</a>
