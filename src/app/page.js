@@ -4,7 +4,11 @@ import Navigation from './nav.js'
 
 export default function Main() {
 return(
-  <Navigation/>
+  <div className="customBackground">
+    <div className= "">
+      <Navigation/>
+    </div>
+  </div>
 );
 
 }

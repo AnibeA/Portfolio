@@ -2,3 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+:root {
+    /* Gradient background effect */
+    @apply h-screen bg-gradient-to-r from-slate-300 via-slate-600 to-slate-800;
+   
+
+    
+  }
