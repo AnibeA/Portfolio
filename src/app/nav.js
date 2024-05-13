@@ -1,5 +1,4 @@
 
-
 export default function Navigation() {
     return (
       <nav  className="text-3xl font-bold  m-4 p-4 font-mono">
@@ -8,7 +7,7 @@ export default function Navigation() {
               <a>Home</a>
           </li>
           <li className="m-2 p-2">
-              <a>About</a>
+              <a>Resume</a>
           </li>
           <li className="m-2 p-2">
               <a>Projects</a>
